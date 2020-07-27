@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Guess the Song</string>
+    <string name="title_activity_maps">Guess the song</string>
+    <string name="image_button">ImageButton</string>
+    <string name="unknown_song">Unknown Song</string>
+    <string name="lyrandsongs">LyrAndSongs</string>
+    <string name="gpstitle">Error!</string>
+    <string name="gpsmessage">Looks like your GPS is turned off, please go to settings and turn it on</string>
+    <string name="lyrcol"> Lyrics collected! </string>
+    <string name="walkcloser">Walk Closer!</string>
+    <string name="classic">Classic</string>
+    <string name="current">Current</string>
+    <string name="classicXML">Classic</string>
+    <string name="currentXML">Current</string>
+    <string name="lyrics">lyrics</string>
+    <string name="title">title</string>
+    <string name="artist">artist</string>
+    <string name="correct">Correct!</string>
+    <string name="yes">Yes, it is \u0020</string>
+    <string name="cong">. Congratulations</string>
+    <string name="woohoo">Woohoo!</string>
+    <string name="guessed">guessedTitle</string>
+    <string name="incorrecter">Incorrect</string>
+    <string name="no">No, it is not \u0020</string>
+    <string name="noMessage">. Try again, or collect more lyrics!</string>
+    <string name="hint">Hint: Artist is </string>
+
+
+</resources>
